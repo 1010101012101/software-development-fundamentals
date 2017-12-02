@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/robertsaunders/Documents/Development/Projects/software-development-fundamentals/Assignments/Assn2_15rws/fractionTest.cpp
+iostream
+-
+fraction_15rws.h
+/Users/robertsaunders/Documents/Development/Projects/software-development-fundamentals/Assignments/Assn2_15rws/fraction_15rws.h
+
+/Users/robertsaunders/Documents/Development/Projects/software-development-fundamentals/Assignments/Assn2_15rws/fraction_15rws.cpp
+fraction_15rws.h
+/Users/robertsaunders/Documents/Development/Projects/software-development-fundamentals/Assignments/Assn2_15rws/fraction_15rws.h
+
+/Users/robertsaunders/Documents/Development/Projects/software-development-fundamentals/Assignments/Assn2_15rws/fraction_15rws.h
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+

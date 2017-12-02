@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/robertsaunders/Documents/Development/Projects/software-development-fundamentals/Assignments/Assn1_15rws/insultgenerator_15rws.cpp
+insultgenerator_15rws.h
+/Users/robertsaunders/Documents/Development/Projects/software-development-fundamentals/Assignments/Assn1_15rws/insultgenerator_15rws.h
+
+/Users/robertsaunders/Documents/Development/Projects/software-development-fundamentals/Assignments/Assn1_15rws/insultgenerator_15rws.h
+iostream
+-
+fstream
+-
+vector
+-
+set
+-
+
+/Users/robertsaunders/Documents/Development/Projects/software-development-fundamentals/Assignments/Assn1_15rws/testinsultgenerator.cpp
+iostream
+-
+string
+-
+vector
+-
+time.h
+-
+insultgenerator_15rws.h
+/Users/robertsaunders/Documents/Development/Projects/software-development-fundamentals/Assignments/Assn1_15rws/insultgenerator_15rws.h
+

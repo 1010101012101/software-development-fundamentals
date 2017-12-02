@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/robertsaunders/Documents/Development/Projects/software-development-fundamentals/Assn4_15rws/jumble_15rws.cpp
+jumble_15rws.h
+/Users/robertsaunders/Documents/Development/Projects/software-development-fundamentals/Assn4_15rws/jumble_15rws.h
+
+/Users/robertsaunders/Documents/Development/Projects/software-development-fundamentals/Assn4_15rws/jumble_15rws.h
+string
+-
+iostream
+-
+utility
+-
+stdlib.h
+-
+time.h
+-
+
+/Users/robertsaunders/Documents/Development/Projects/software-development-fundamentals/Assn4_15rws/testJumble.cpp
+string
+-
+iostream
+-
+ctime
+-
+jumble_15rws.h
+/Users/robertsaunders/Documents/Development/Projects/software-development-fundamentals/Assn4_15rws/jumble_15rws.h
+
